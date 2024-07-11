@@ -1,0 +1,53 @@
+body{
+
+    margin-left: 400px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.container{
+    border: 2px solid white;
+    padding: 25px;
+    height: 630px;
+    width: 850px;
+    background-color:whitesmoke ;
+    color: black;
+}
+input{
+    border-radius: 2px solid black;
+}
+img {
+    margin-top:10px;
+    display: block;
+}
+label{
+    margin-top: 5px;
+}
+.check{
+    margin-top: 10px;
+}
+button{
+     margin-top: 10px;
+     border-radius: 2px white;
+     box-shadow: white;
+     width:100%;
+     background-color: orangered;
+     color: white;
+     padding: 10PX;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
